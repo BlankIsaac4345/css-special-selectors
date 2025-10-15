@@ -25,5 +25,5 @@ li:active::before {
 }
 
 ul {
-    list-style: armenian;
+    list-style: none;
 }
